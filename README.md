@@ -50,6 +50,11 @@ This project is built strict to Object-Oriented Programming (OOP) guidelines, in
    * `ExpenseGroup` holds arrays of `User` objects (Aggregation) and `Expense` objects (Composition).
 
 ---
+## 📊 Class Diagram (UML)
+
+![UML Class Diagram](UML.png)
+
+---
 
 ## 💻 Tech Stack & Requirements
 
