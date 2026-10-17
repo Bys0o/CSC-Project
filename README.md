@@ -11,8 +11,8 @@ An automated expense-splitting Java application designed to help group members (
 * **University:** King Saud University
 
 ### Team Members:
-* **[Salman Mislat Almutairi]** (ID: `446102848`) - Core Infrastructure & Base Architecture
-* **[Fahad Mamdohe Almutairi]** (ID: `446104718`) - Derived Expenses & Main Menu UI
+* **[Salman Mislat Almutairi]** - Core Infrastructure & Base Architecture
+* **[Fahad Mamdohe Almutairi]** - Derived Expenses & Main Menu UI
 
 ---
 
